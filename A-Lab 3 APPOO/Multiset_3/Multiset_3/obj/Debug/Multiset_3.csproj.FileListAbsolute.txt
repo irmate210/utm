@@ -1,0 +1,6 @@
+c:\users\mihai\documents\visual studio 2017\Projects\Multiset_3\Multiset_3\bin\Debug\Multiset_3.exe.config
+c:\users\mihai\documents\visual studio 2017\Projects\Multiset_3\Multiset_3\bin\Debug\Multiset_3.exe
+c:\users\mihai\documents\visual studio 2017\Projects\Multiset_3\Multiset_3\bin\Debug\Multiset_3.pdb
+c:\users\mihai\documents\visual studio 2017\Projects\Multiset_3\Multiset_3\obj\Debug\Multiset_3.csprojResolveAssemblyReference.cache
+c:\users\mihai\documents\visual studio 2017\Projects\Multiset_3\Multiset_3\obj\Debug\Multiset_3.exe
+c:\users\mihai\documents\visual studio 2017\Projects\Multiset_3\Multiset_3\obj\Debug\Multiset_3.pdb
